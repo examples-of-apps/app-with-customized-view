@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Custom View</string>
+	
+	<!-- Custom View -->
+	<string name="defaultTitle">Lorem Ipsum</string>
+	<string name="defaultSubtitle">Neque porro quisquam est qui dolorem ipsum</string>
+	<string name="defaultContent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet fringilla nisi et fringilla. Proin vitae diam sollicitudin, volutpat leo a, suscipit purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin sagittis aliquam risus egestas suscipit. Morbi faucibus massa id molestie congue. Etiam congue convallis lacus vel elementum. Fusce congue urna sed nunc placerat convallis.</string>
+
+</resources>
